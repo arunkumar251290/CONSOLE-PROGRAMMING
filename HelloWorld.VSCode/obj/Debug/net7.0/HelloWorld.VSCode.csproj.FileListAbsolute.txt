@@ -1,0 +1,14 @@
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\bin\Debug\net7.0\HelloWorld.VSCode.exe
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\bin\Debug\net7.0\HelloWorld.VSCode.deps.json
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\bin\Debug\net7.0\HelloWorld.VSCode.runtimeconfig.json
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\bin\Debug\net7.0\HelloWorld.VSCode.dll
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\bin\Debug\net7.0\HelloWorld.VSCode.pdb
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\obj\Debug\net7.0\HelloWorld.VSCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\obj\Debug\net7.0\HelloWorld.VSCode.AssemblyInfoInputs.cache
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\obj\Debug\net7.0\HelloWorld.VSCode.AssemblyInfo.cs
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\obj\Debug\net7.0\HelloWorld.VSCode.csproj.CoreCompileInputs.cache
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\obj\Debug\net7.0\HelloWorld.VSCode.dll
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\obj\Debug\net7.0\refint\HelloWorld.VSCode.dll
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\obj\Debug\net7.0\HelloWorld.VSCode.pdb
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\obj\Debug\net7.0\HelloWorld.VSCode.genruntimeconfig.cache
+D:\CONSOLE PROGRAMMING\HelloWorld.VSCode\obj\Debug\net7.0\ref\HelloWorld.VSCode.dll
